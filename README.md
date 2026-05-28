@@ -65,7 +65,7 @@ RegisterNumber: 212225100003
 
 **Program:**
 ~~~
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+Program to design a half adder and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 
 module Exp4(a,b,cin,sum,carry,diff,borrow);
 input a,b,cin;
